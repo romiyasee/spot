@@ -1,2 +1,2 @@
 # SPOT 
-## Semarang Places On Tracks
+## Semarang Places On Track
