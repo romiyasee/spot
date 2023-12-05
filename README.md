@@ -1,2 +1,2 @@
 # SPOT 
-## (Semarang Places On Track
+## (Semarang Places On Track)
