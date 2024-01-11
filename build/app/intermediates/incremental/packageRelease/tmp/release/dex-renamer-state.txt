@@ -1,0 +1,4 @@
+#Thu Jan 11 21:55:06 WIB 2024
+base.0=C\:\\Users\\USER\\Documents\\Dev\\adv1\\uas\\spot\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
